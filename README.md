@@ -1,2 +1,2 @@
 # AntVS.Bees
-<img src="antvsbee-mainpage.png>
+<img src="antvsbee-mainpage.png">
