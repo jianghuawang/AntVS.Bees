@@ -1,6 +1,6 @@
 # Ant VS. Bees
 <img src="antvsbee-mainpage.png">
-<img src="screenshoot.png">
+<img src="scrreenshoot.png">
 
 ## How to run
 
