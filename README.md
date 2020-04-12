@@ -1,6 +1,6 @@
 # Ant VS. Bees
 <img src="antvsbee-mainpage.png">
-
+<img src="screenshoot.png">
 ## How to run
 
 ```
@@ -16,6 +16,7 @@ A game of Ants Vs. SomeBees consists of a series of turns. In each turn, new bee
 
 **The Hive.** This is the place where bees originate. Bees exit the beehive to enter the ant colony.
 
-**Ants.** Ants are the usable troops in the game that the player places into the colony. Each type of ant takes a different action and requires a different amount of food to place. The two most basic ant types are the HarvesterAnt, which adds one food to the colony during each turn, and the ThrowerAnt, which throws a leaf at a bee each turn. You will be implementing many more.
+**Ants.** Ants are the usable troops in the game that the player places into the colony. Each type of ant takes a different action and requires a different amount of food to place. The two most basic ant types are the HarvesterAnt, which adds one food to the colony during each turn, and the ThrowerAnt, which throws a leaf at a bee each turn. 
+<img src="allAnts.png">
 
 **Bees.** Bees are the antagonistic troops in the game that the player must defend the colony from. Each turn, a bee either advances to the next place in the tunnel if no ant is in its way, or it stings the ant in its way. Bees win when at least one bee reaches the end of a tunnel.
